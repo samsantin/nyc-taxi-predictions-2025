@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/samys/Documents/Ingeniería y Ciencia de Datos/Quinto
+  Semestre/Proyecto Ciencia de Datos/Repositorios/nyc-taxi-predictions-2025/notebooks/mlruns/737742726769045930/b77759fdf31143448dec5d516f22bcf3/artifacts
+end_time: 1760662608761
+entry_point_name: ''
+experiment_id: '737742726769045930'
+lifecycle_stage: active
+run_id: b77759fdf31143448dec5d516f22bcf3
+run_name: GradientBoostingRegressor
+run_uuid: b77759fdf31143448dec5d516f22bcf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760662535734
+status: 4
+tags: []
+user_id: samys
