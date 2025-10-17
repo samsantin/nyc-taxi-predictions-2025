@@ -1,0 +1,11 @@
+artifact_location: file:///c:/Users/samys/Documents/Ingeniería y Ciencia de Datos/Quinto
+  Semestre/Proyecto Ciencia de Datos/Repositorios/nyc-taxi-predictions-2025/notebooks/mlruns/564663416245393530/models/m-6888ae50432f4d709d178645b23dce15/artifacts
+creation_timestamp: 1760668662987
+experiment_id: '564663416245393530'
+last_updated_timestamp: 1760668663063
+model_id: m-6888ae50432f4d709d178645b23dce15
+model_type: null
+name: model
+source_run_id: b3cbfc025dbf41ae9740312b52f8078c
+status: 3
+status_message: null

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samys/Documents/Ingeniería y Ciencia de Datos/Quinto
+  Semestre/Proyecto Ciencia de Datos/Repositorios/nyc-taxi-predictions-2025/notebooks/mlruns/564663416245393530/5c8d5a8c5c7b4801be4737b7b92cdd98/artifacts
+end_time: 1760668303837
+entry_point_name: ''
+experiment_id: '564663416245393530'
+lifecycle_stage: active
+run_id: 5c8d5a8c5c7b4801be4737b7b92cdd98
+run_name: lasso_alpha_0.1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760668303167
+status: 4
+tags: []
+user_id: samys
