@@ -1,0 +1,11 @@
+digest: 4a3d2ce8
+name: dataset
+profile: '{"features_shape": [46307, 4159], "features_size": 192590813, "features_nbytes":
+  1540726504, "targets_shape": [46307], "targets_size": 46307, "targets_nbytes": 370456}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 4159]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "samys", "mlflow.source.name": "c:\\Users\\samys\\Documents\\Ingenier\u00eda
+  y Ciencia de Datos\\Quinto Semestre\\Proyecto Ciencia de Datos\\Repositorios\\nyc-taxi-predictions-2025\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "159858683aabf17ac9c7d091e89f892dc72ffaae"}}'
+source_type: code
